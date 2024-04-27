@@ -1,7 +1,5 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
-
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
 
@@ -39,8 +37,8 @@
 
 
 
-### Name:S.Suriya prakash
-### Register Number:212223100055
+### Name:YENUGANTI PRATHYUSHA
+### Register Number:212223240187
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
