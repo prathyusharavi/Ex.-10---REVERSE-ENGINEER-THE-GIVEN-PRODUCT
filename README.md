@@ -29,13 +29,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/arulsuriyalokeshy/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149130151/d01dc1af-c948-4e1a-888e-4f73033fb119)
+![image](https://github.com/prathyusharavi/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147474424/8ffea790-c4dc-4bfb-bfaa-7680bf62562b)
 
 
 ### Output:
-![image](https://github.com/arulsuriyalokeshy/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149130151/2b5bc664-d8f7-475f-bfaa-a1c4a41278fb)
 
-
+![image](https://github.com/prathyusharavi/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147474424/2f777b96-c27e-44de-9a38-2912b6730177)
 
 ### Name:YENUGANTI PRATHYUSHA
 ### Register Number:212223240187
